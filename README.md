@@ -1,4 +1,3 @@
-
 # disneyplus.com/begin
 
 Get ready to relish new wonders of **Disney, Pixar, Marvel, Star Wars, National Geographic and Star** content on your most lovable platform - [**disneyplus.com/begin**](), with its subscription. You can access all your favorite TV Shows & Movies on it , even it comes with download feature to allow its users. Here, we present you with some of the important stages required to access[**disneyplus.com/begin**]() content.
@@ -6,8 +5,6 @@ Get ready to relish new wonders of **Disney, Pixar, Marvel, Star Wars, National 
 
 
 [![disneyplus.com/begin ](dis-plu-code.png)]()
-
-
 
 
 
@@ -36,17 +33,19 @@ One important condition is that user must be a  [**disneyplus.com/begin**]() sub
 4. Further, type Username **>**  Sign in
 
 
+
  
 [![disneyplus.com/begin ](disney-plus1.jpg)]()
 
 
 
+
 ## Get access to disneyplus.com/begin on Android TV
-1. Fire up your Android TV > Go to play store.
+1. Fire up your Android TV** >** Go to play store.
 2. Search"Disney Plus app" for [**disneyplus.com/begin**]() > Download and install it.  
 3. Under app command center , open Disney Plus app.
 4. An activation code will appear.
-5. Turn your phone on > Search **disneyplus.com/begin** on browser.
-6. Enter all login credentials > also enter activation code from TV.
-7. Click "activate device"
+5. Turn your phone on **>** Search **disneyplus.com/begin** on browser.
+6. Enter all login credentials **>** also enter activation code from TV.
+7. Click **"activate device"**
 8. Now get ready to watch endless TV Shows and movies.
