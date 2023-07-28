@@ -41,7 +41,7 @@ One important condition is that user must be a  [**disneyplus.com/begin**]() sub
 
 
 ## Get access to disneyplus.com/begin on Android TV
-1. Fire up your Android TV** >** Go to play store.
+1. Fire up your Android TV**>** Go to play store.
 2. Search"Disney Plus app" for [**disneyplus.com/begin**]() > Download and install it.  
 3. Under app command center , open Disney Plus app.
 4. An activation code will appear.
