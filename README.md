@@ -1,3 +1,4 @@
+
 # disneyplus.com/begin
 
 Get ready to relish new wonders of **Disney, Pixar, Marvel, Star Wars, National Geographic and Star** content on your most lovable platform - [**disneyplus.com/begin**](), with its subscription. You can access all your favorite TV Shows & Movies on it , even it comes with download feature to allow its users. Here, we present you with some of the important stages required to access[**disneyplus.com/begin**]() content.
@@ -36,7 +37,7 @@ One important condition is that user must be a  [**disneyplus.com/begin**]() sub
 
 
  
-[![disneyplus.com/begin ](disney-plus.png)]()
+[![disneyplus.com/begin ](disney-plus1.jpg)]()
 
 
 
